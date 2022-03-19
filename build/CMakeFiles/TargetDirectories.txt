@@ -1,3 +1,0 @@
-/home/yang/github/h264decoder/yangh264decoder/build/CMakeFiles/rebuild_cache.dir
-/home/yang/github/h264decoder/yangh264decoder/build/CMakeFiles/edit_cache.dir
-/home/yang/github/h264decoder/yangh264decoder/build/CMakeFiles/yangh264decoder.dir
